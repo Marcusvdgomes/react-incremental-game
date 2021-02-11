@@ -16,7 +16,7 @@ function App() {
       <Nav />
       {/* <NewsMarquee show={showMarquee} /> */}
       <h1 className="text-center text-blue-600 dark:white">
-        React-DarkMode with Tailwind.css
+        React-DarkMode with Tailwind.css and VSCode (Integrated with GitHub)
       </h1>
       {/* <button
         className="bg-blue-300 hover:bg-blue-700 text-white font-bold py-1 px-2 rounded absolute bottom-0 right-0 mb-1 mr-1"
